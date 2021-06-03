@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable and usefull directions, how to comfort and cure the afflicted, both in all outward afflictions on the body, estate, name, or friends, &amp;c. And also in all inward afflictions on the conscience, occasioned either by Satans temptations, or our owne sinnes. More especially applyed to these three particulars, viz. from 1. the feare of committing that unpardonable sin against the Holy Ghost. 2. Hardnesse of heart accompanyed with the feare of hell. 3. A wounded spirit under the sense of wrath, and Gods displeasure. / Written in a letter to a Christian friend, by that late godly, learned, and soule-supporting minister of the Gospel, Mr. John Forbes. Imprimatur, Ja. Cranford.</title>
+            <author>Forbes, John, minister of the Gospel.</author>
+         </titleStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84675</idno><idno type="EEBO-CITATION">99868938</idno>
+  <idno type="VID">170654</idno>
+  <idno type="EEBO-PROQUEST">2240967042</idno>
+  
+            <idno type="STC">Wing F1449</idno>
+            <idno type="STC">Thomason E1184_1</idno>
+            <idno type="STC">ESTC R210111</idno>
+            <idno type="PROQUEST">99868938</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868938e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170654)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 251:E1184[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable and usefull directions, how to comfort and cure the afflicted, both in all outward afflictions on the body, estate, name, or friends, &amp;c. And also in all inward afflictions on the conscience, occasioned either by Satans temptations, or our owne sinnes. More especially applyed to these three particulars, viz. from 1. the feare of committing that unpardonable sin against the Holy Ghost. 2. Hardnesse of heart accompanyed with the feare of hell. 3. A wounded spirit under the sense of wrath, and Gods displeasure. / Written in a letter to a Christian friend, by that late godly, learned, and soule-supporting minister of the Gospel, Mr. John Forbes. Imprimatur, Ja. Cranford.</title>
+                  <author>Forbes, John, minister of the Gospel.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>by R.C. for J. Bellamie,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "The feare ... displeasure" are bracketed together on title page.</note>
+                  <note>Running title reads: Directions for the comfort and cure of the afflicted.</note>
+                  <note>Annotation on Thomason copy: "June".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Suffering --  Religious aspects --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170654:1"/>
+            <p>SEASONABLE AND Vsefull Directions, how to Com<g ref="char:EOLhyphen"/>fort and Cure the afflicted, both in all outward afflictions on the body, estate, name, or Friends, &amp;c.</p>
+            <p>AND ALSO In all inward Afflictions on the Consci<g ref="char:EOLhyphen"/>ence, occasioned either by Satans tempta<g ref="char:EOLhyphen"/>tions, or our owne sinnes.</p>
+            <p>More especially applyed to these three particulars, <hi>viz.</hi>
+            </p>
+            <p>From
+<list>
+                  <item>1. <hi>The feare of committing that unpardonable sin against the Holy Ghost.</hi>
+                  </item>
+                  <item>2. <hi>Hardnesse of heart accompanyed with the feare of hell.</hi>
+                  </item>
+                  <item>3. <hi>A wounded spirit under the sense of wrath, and Gods displeasure.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Written in a Letter to a Christian Friend, by that late godly, learned, and soule-supporting Mini<g ref="char:EOLhyphen"/>ster of the Gosp<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, Mr. <hi>John Forbes.</hi>
+            </p>
+            <q>
+               <bibl>Prov. 12. 14.</bibl>
+               <hi>The spirit of a man will beare his infirmity; but a wounded spirit who can beare?</hi>
+            </q>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur,</p>
+                        <closer>
+                           <signed>Ja. Cranford.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Printed at <hi>London</hi> by <hi>R. C</hi> for <hi>J. Bellamie.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:170654:2"/>
+            <pb n="1" facs="tcp:170654:2"/>
+            <head>Seasonable and usefull Directi<g ref="char:EOLhyphen"/>ons for the Comfort and Cure of the Afflicted.</head>
+            <p>
+               <hi>AFfliction, that thunder bolt of the Al<g ref="char:EOLhyphen"/>mighty to humble mortals,</hi> is that which you require should be the subject of this insuing discourse; a Theame so large and ample, with so many windings and turnings, that it seemes almost impossible for me to adven<g ref="char:EOLhyphen"/>ture to wade every way in so vast and strange a subject. In regard of the variety of Affli<g ref="char:EOLhyphen"/>ctions incident; so many, and so intricate as it pleaseth the Almighty to lay strokes up<g ref="char:EOLhyphen"/>on us, or suffer or turne loose Satan to tor<g ref="char:EOLhyphen"/>ture us, either with imaginary or reall affli<g ref="char:EOLhyphen"/>ctions. For, to some, <hi>Imaginations and feares as much afflict and vex, as realities, and small crosses, (when it pleaseth the Almighty to faste a his arrowes in us) as the greatest crosses can doe.</hi> Wherefore, I must first tell you, that had
+<pb n="2" facs="tcp:170654:3"/> you pointed me to speake of any one afflicti<g ref="char:EOLhyphen"/>on, confining me within that limit, I might perhaps have given you more satisfaction then now I can: But (being left at liberty) I cannot chuse but have somewhat to say un<g ref="char:EOLhyphen"/>to you to fill up the compasse of a Letter, that so in some sort I may doe my best to accom<g ref="char:EOLhyphen"/>plish your desire.</p>
+            <p>Now to make way how to winde into this Discourse of Afflictions; Know, that all <hi>Af<g ref="char:EOLhyphen"/>flictions</hi>
+               <note place="margin">Afflictions are 1 Outward</note> are either <hi>outward,</hi> such as are affli<g ref="char:EOLhyphen"/>ctions comming by crosses in friends, in out<g ref="char:EOLhyphen"/>ward sorrowes by vexations, by reproaches, scandalls, wants, poverty, oppression, home<g ref="char:EOLhyphen"/>discords, or the like, comming from out<g ref="char:EOLhyphen"/>ward causes: Or, they are <hi>Inward,</hi> caused by sorrow for sinne, terror of conscience, hard<g ref="char:EOLhyphen"/>nesse <note place="margin">2 Inward</note> of heart, impenitency, Satans wildfire, tentations, false feares, and sometimes stroaks from the Almighty; whereof <hi>Job</hi> complain<g ref="char:EOLhyphen"/>eth to his friends, and sueth for compassion from them, because the Almighty had visi<g ref="char:EOLhyphen"/>ted him.</p>
+            <p>Of the former, the <hi>outward Crosses,</hi> we need not to trouble our selves with, because when the cause is knowne, the cure is easie. For, it it be diseases in the body, then Physitians; Chirurgeons, and the like must ply the cure.
+<pb n="3" facs="tcp:170654:3"/> If Oppression, and Scandals, then patience and such lenitives must be applyed to support the party. If home-discords, then Scriptures must be applyed to mitigate present sorrows: exhortations seasonably vented to the parties offending to reclaime them, helping every one in their miseries as well as possibly we can. If poverty be the cause of the affliction, then the best way will be, to supply their wants according to our abilities; and in summe, to helpe all what we may, both by our counsell, and supplies according to our power.</p>
+            <p>But the other, of <hi>Inward Afflictions,</hi> ari<g ref="char:EOLhyphen"/>sing from hidden causes, are much more dif<g ref="char:EOLhyphen"/>ficult to be medled with, because of the prone nesse of such to conceale the devils counsell, and of the subtilty of his manifold tempta<g ref="char:EOLhyphen"/>tions, so amazing our spirits with variety of severall distractions, that our Spirits are so unhooked (like a doore off the hinges) that many times we are not our selves, either to be disputed with or spoken unto: but wee must demurre ere we meddle with the parties. For, whether it be a small affliction or a great, whether the causes be reall or imagi<g ref="char:EOLhyphen"/>nary: whether it be an immediate fiery dart of Satan injected, or a stroake of conscience
+<pb n="4" facs="tcp:170654:4"/> from the Almighty; yet still this holds, that there is strong discouragement, amazednesse, silence, stupifaction, feares, &amp;c. And then e<g ref="char:EOLhyphen"/>very stroake in this kinde being small or great, lesse or more in the cause, making im<g ref="char:EOLhyphen"/>pressions deepe or slender (as it pleases the Almighty to set it on) stupifie our spirits and understandings, suffering Satan to vexe us. In this case, to stand upon all particulars, is impossible, I will therefore insist upon afflicted people in generall, and then upon some afflictions in particular, within com<g ref="char:EOLhyphen"/>passe whereof you may perhaps finde your intended desire.</p>
+            <p>But first, in speaking of <hi>Comforts</hi> and <hi>Dis<g ref="char:EOLhyphen"/>couragements;</hi> Let us state and define them.</p>
+            <p>
+               <hi>Affliction or Discouragement, is that what<g ref="char:EOLhyphen"/>soever,</hi>
+               <note place="margin">Affliction, what it is.</note>
+               <hi>which disquiets, plunders and tosses mens Spirits incessantly, so as they finde no rest, by reason of the sense of some present evill felt, or some great and eminent danger or trouble feared to come.</hi> To incounter which: <hi>Comfort is no<g ref="char:EOLhyphen"/>thing else, but the Application of those Promises,</hi>
+               <note place="margin">Comfort, what it is.</note>
+               <hi>Remedies and Helpes afforded unto us; which are more potently able to support, lift up, and en<g ref="char:EOLhyphen"/>courage us, against the sense of evills present, or future, felt or feared, then all discouragement▪ are to cast and keepe us downe.</hi>
+            </p>
+            <pb n="5" facs="tcp:170654:4"/>
+            <p> To come therefore to speake of Afflicted people in the generall (whatsoever their <note place="margin">The Cure in generall.</note> Affliction be) <hi>they must not be suddenly ven<g ref="char:EOLhyphen"/>tured upon:</hi> especially when the Affliction <milestone type="tcpmilestone" unit="unspecified" n="1"/> like <hi>Jobs</hi> seemes to be violent: In which case, his friends seven dayes silence <hi>Job.</hi> 2. 13. ere they spake, may teach us wisedome; for, they saw that his griefe was great.</p>
+            <p>And also, <hi>there must be a warie and wise In<g ref="char:EOLhyphen"/>spection</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>into the Nature, cause and quality of the Affliction,</hi> which will require time; o<g ref="char:EOLhyphen"/>therwise, like unskilfull Physitians, who mistake their patients diseases, we may ra<g ref="char:EOLhyphen"/>ther cast downe, then raise up, kill, then cure. For, <hi>to humble one more, who hath beene too much beaten already, is to overthrow Gods</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>end in the Cure,</hi> Isa. 40. 1, 2. And further, Hee who intends to Comfort, must know, that <hi>it is a divine great worke, surpassing any mortall mans skill:</hi> even the worke of God himselfe, <hi>Isa.</hi> 51. 12. who is called the God of all Comfort and consolation, 2 <hi>Cor.</hi> 1. 3, 4. And the holy Ghost is said to bee the Comforter, <hi>Joh.</hi> 15. 7, 8. Therefore divine strength and assistance must be implored and <milestone type="tcpmilestone" unit="unspecified" n="4"/> relyed upon in all that is done or said. And then againe, that party who intends to Comfort, <hi>must not in any case fall presently a</hi>
+               <pb n="6" facs="tcp:170654:5"/>
+               <hi>reasoning with the party troubled:</hi> But first, sound their disposition, Nature and tem<g ref="char:EOLhyphen"/>per, whether Sanguine, Cholerick, or Me<g ref="char:EOLhyphen"/>lancholy, and what knowledge they have, whether deepe of understanding or shallow. Also what the method of their former course of life hath beene: what company they doe or have most delighted in: what their Age in Christ is, or whether they be still in their naturall estate unrenewed? what their love or skill, to, or in the Scriptures is or hath beene: All which, and the like helpes doe very much conduce to a tryall of their estate, how to proceede and deale with them. Next in some cases of a trou<g ref="char:EOLhyphen"/>bled Soule, as <hi>there is a meere necessity thereof to helpe them, to bring them to confession, and to re<g ref="char:EOLhyphen"/>veale</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>the Devils Counsell,</hi> (which usually many <note place="margin">Devils counsell keeping.</note> of them keepe very close) so it is a very hard matter to bring them unto it: In which case, <hi>If concealing of the Devils Counsell be the cause of this tumult; hee who would comfort, must bend all his forces this way for a discovery.</hi> To effect which this one never failing Generall must be kept; the party who would prevaile with the other, <hi>must super-abound in Love and</hi>
+               <note place="margin">Meanes to bring out the Devils counsell.</note>
+               <hi>Discretion unto them, humour them, serve them in all indifferent things: never offending them, if</hi>
+               <pb n="7" facs="tcp:170654:5"/>
+               <hi>possible: weepe and sympathize with them in all Estates:</hi> Feele their pulses in many seve<g ref="char:EOLhyphen"/>rall discourses and matters: to be strict in enquiring of their former conversation, de<g ref="char:EOLhyphen"/>lights, dislikes, love of Parents, kindnesse, or unkindnesse of Husband, Wife, Parents, or kindred: what their sighes and Passions are in variety of discourses: or, what matter or Scripture staggers them most, or, makes a blush or a change in them.</p>
+            <p>Then, after that they have gained a good opinion of themselves in the party troubled, to presse them often seasonably (for their owne good) to discover the bottome and cause of this affliction.</p>
+            <p>These and the like things being done, a hundred to one, the cause will either some way be discovered, or found out; which (for the most part) being but some fiery dart of Satan injected, abusing the under<g ref="char:EOLhyphen"/>standing and judgement, <hi>the very discovery usually is the cure thereof:</hi> the party being a<g ref="char:EOLhyphen"/>shamed that ever they were so grossely abu<g ref="char:EOLhyphen"/>sed, and foolishly besotted of Satan. Or, if the businesse prove to be some grosse sinne, yet out it will, then, when the party com<g ref="char:EOLhyphen"/>forting, hat intreated, prayed hard, beene instant in watching all opportunities, the
+<pb n="8" facs="tcp:170654:6"/> afflicted Patient then, can hold out no lon<g ref="char:EOLhyphen"/>ger (being overcome of love) when they perceive <hi>Secresie, Love, Necessity of discovery, with willingnesse and ability</hi> to helpe and ease them of their present burden, which with the apprehension of the Almighties wrath, perhaps proves then intolerable to them.</p>
+            <p>And thus even that counsell, which <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> sayes lyes deepe in the heart of a man, yet a man of understanding may by Gods helpe fetch it out.</p>
+            <p>Untill which discovery (in this case made) there is no hope to find any cure comfort, or ease, either for man or woman: because, <hi>Ʋntill God have his glory, we cannot have our Peace.</hi>
+            </p>
+            <p>As <hi>Joshua</hi> told <hi>Achan, Josh.</hi> 7. 19. My Sonne, give Glory to the Lord God of <hi>Israel,</hi> I pray thee, and make confession to him what thou hast done, now to mee.</p>
+            <p>And then, there is another sort of affli<g ref="char:EOLhyphen"/>ction, <note place="margin">Discoura<g ref="char:EOLhyphen"/>ged Chri<g ref="char:EOLhyphen"/>stians.</note> (if it may be called an affliction) which needes more chiding then comfort, yea and Catechizing also.</p>
+            <p>
+               <hi>A sort of Christians, who bring an ill report upon the good Land,</hi> who are alwayes com<g ref="char:EOLhyphen"/>plaining and mourning, (as though God had done nothing for them) like unto <hi>Pha<g ref="char:EOLhyphen"/>raohs
+<pb n="9" facs="tcp:170654:6"/> leane kine,</hi> never a whit the fatter for ea<g ref="char:EOLhyphen"/>ting; or those women spoken of by the Apostle, ever learning and never learned, and are alwayes complaining of themselves, which yet secretly reflects upon God, who gives them no more Grace; who blesses not the meanes unto them, and gives them no better heart.</p>
+            <p>Who are like unto some rich Citizen be<g ref="char:EOLhyphen"/>ing perpetually troubled, thinking him<g ref="char:EOLhyphen"/>selfe worth nothing, because hee is not equall unto the richest in the Citie: such a one even they themselves would thinke a foolish man without reason.</p>
+            <p>And yet this is their case, whilst perhaps they are too idle, digge not sufficiently for comfort in the wells of salvation, not suck<g ref="char:EOLhyphen"/>ing that they may be satisfied, having a hard conceit of Christ, unto whose Spirit (in a manner) they give the lie.</p>
+            <p>For, the Spirit of God sayes, <hi>Esa.</hi> 53. 11. <hi>That Christ shall see of the travaile of his soule, and shall be satisfied:</hi> No saies their lumpish lowring life, he will not be satisfied for all the travaile of our soules.</p>
+            <p>Of all which, in some sort it may bee said as Christ spake of the <hi>Sonnes of Zebede,</hi> who knew not what they asked, neither do these
+<pb n="10" facs="tcp:170654:7"/> know what they would have.</p>
+            <p>
+               <hi>O Comfort, comfort, more comfort, feeling, more feeling, constant feeling!</hi> alas poore soules, they forget to thinke, that here we walke by Faith, and not by sight or feeling. They would have their wages before their worke bee done, a constant heaven upon earth, which consists rather, <hi>In a quiet submission and waiting upon God to be what be will have us to be in this world, then in a carking, caring, com<g ref="char:EOLhyphen"/>plaining, restlesse estate.</hi> And of whom it may be truely said, as a Gentlewoman I once knew on her death-bed confessed of her selfe: That the fountaine of all their miserie is, That <hi>they looke in the Law for that which they should find in the Gospel, and for that in them<g ref="char:EOLhyphen"/>selves which they should finde in Christ, and to finde that upon earth, which is reserved for Hea<g ref="char:EOLhyphen"/>ven.</hi> Who onely need comfort thus far, to be better lovingly instructed, and now and then <note place="margin">The cure.</note> chidden, yet so as their spirits be still up<g ref="char:EOLhyphen"/>held from sinking, in hope that the Sunne of brightnesse will one day shine more clearely, and reveale himselfe more fully unto them. In which case preparatives of much love must alwayes usher, and imme<g ref="char:EOLhyphen"/>diately follow all admonit▪ons and chidings vented unto such.</p>
+            <pb n="11" facs="tcp:170654:7"/>
+            <p> There is another sort of affliction inci<g ref="char:EOLhyphen"/>dent unto some, who being sufficiently bea<g ref="char:EOLhyphen"/>ten of God, yet Satan and themselves set in to lay more hard load upon them, being already like <hi>bruised Reeds and smoaking flax.</hi>
+            </p>
+            <p>Here, he who comforts must be exceeding <note place="margin">Selfe af<g ref="char:EOLhyphen"/>flicting Christians. The cure.</note> wary <hi>not to adde affliction to affliction,</hi> nor mi<g ref="char:EOLhyphen"/>stake (as <hi>Jobs friends</hi> did) to bring the <hi>Law</hi> in place of the <hi>Gospel,</hi> or Thunder for Sun<g ref="char:EOLhyphen"/>shine, but to bring seasonable, apt and fit Scriptures, informing the Parties, that they are too low already, that they are persons fit for, and capable of comfort, and there<g ref="char:EOLhyphen"/>fore ought to be comforted.</p>
+            <p>Nay if need be in some cases (which falls out rarely) be charged to beleeve and re<g ref="char:EOLhyphen"/>ceive comfort, as some have done with such in necessitie.</p>
+            <p>Of this kind of afflicted people it seemes that God himselfe is very carefull, <hi>Esay</hi> 40. 1, 2. and so ought wee. Comfort yee my people, comfort yee my people, saith our God: Speake yee comfortably to Jerusalem; tell her that her warfare is accomplished, that her iniquitie is pardoned; for, shee hath re<g ref="char:EOLhyphen"/>ceived of the Lords hand double for all her sinnes.</p>
+            <p>So that now it is high time to comfort
+<pb n="12" facs="tcp:170654:8"/> such who have beene much beaten, who must be informed diligently, and provoked to be comforted in God their Saviour, and stirred up to rejoyce in their happy estate. <hi>Of this sort of afflicted people there cannot be too much care taken, nor too much love and respect shewed unto them,</hi> who (like faint persons) must have their meate reached unto them, or put into their mouths, having forgotten their consolation.</p>
+            <p>There may bee added unto this another sort of affliction, caused by some fiery dart of Satan, which is, <hi>to make one feare that they have sinned that sinne against the holy Ghost, that</hi>
+               <note place="margin">Sin against the holy Ghost.</note>
+               <hi>unpardonable sinne, whereupon they grow in some sort desperate, to give over all dutie, and account themselves as damned, scorne admonition as too late; and in a braving humour to laugh at, and outface hell and destruction:</hi> Of which sort I was acquainted with one gentlewoman; the ground of which temptation, usually lies very deepe, whilst they keepe the devills counsell close, Satan plying them with multitudes of temptations, besotting their judgements, and abusing their understan<g ref="char:EOLhyphen"/>dings.</p>
+            <p>Most of all these, need most of all instructi<g ref="char:EOLhyphen"/>on. <note place="margin">The Cure.</note> First, that presumptuous sinnes (espe<g ref="char:EOLhyphen"/>cially
+<pb n="13" facs="tcp:170654:8"/> in their Infancie) cannot bee said to bee the sinne against the holy Ghost. Se<g ref="char:EOLhyphen"/>condly, to convince them of their ignorance, for, <hi>most who complaine in this kind, are so farre from sinning this sinne, as they were never so qualified to commit it, being defective both in the qualification and action.</hi>
+            </p>
+            <p>In the <hi>qualification,</hi> so as they were never inlightned, not having tasted of the heaven<g ref="char:EOLhyphen"/>ly gift, nor of the powers of the world to come. <hi>In action,</hi> that therefore they never despighted the Spirit of Grace, nor there<g ref="char:EOLhyphen"/>fore trampled under foot the blood of the Covenant, as a prophane thing, bringing forth nothing but Briars and Thornes.</p>
+            <p>And for that other sort of this sinne (whereof the Pharisees it is thought was guiltie) in persecuting and open inpugning the knowne truth; they also may bee easily perswaded that they are very free of it, wanting both judgement, power and know<g ref="char:EOLhyphen"/>ledge how to wade so farre into this great sinne. All which things being strongly and lovingly set on and enforced, with the like, as the skilfull Divine well knowes how to doe by the word of God, it will be an easie thing to beat them out of this foolish hu<g ref="char:EOLhyphen"/>mour.</p>
+            <pb n="14" facs="tcp:170654:9"/>
+            <p> Besides, if the party complayning should be qualified with capacitie to commit this sinne, yet they must know that their <hi>presump<g ref="char:EOLhyphen"/>tuous sinnes</hi> are not sinnes against the holy Ghost, unlesse they will wilfully make them so. For, where there is sorrow for sinne past, and prevention for the time to come, with re<g ref="char:EOLhyphen"/>solution against the like, and feare to offend, <hi>here is no danger of the sinne against the Holy Ghost;</hi> which is <hi>A compound of totall impietie, blasphemy, persecution in the highest degree of know<g ref="char:EOLhyphen"/>ledge unto the end, without any remorse.</hi>
+            </p>
+            <p>One sort of Affliction I had almost for<g ref="char:EOLhyphen"/>gotten, which consists most in <hi>false and needlesse feares;</hi> the devill not suffering them to be in quiet without feare, though they <note place="margin">False feares. The cure.</note> be out of danger. <hi>This sort of affliction had rather need of diversion, with now and then a pretty milde jesting and laughing, slighting as it were all they say, then any serious discourse or ap<g ref="char:EOLhyphen"/>plications.</hi> For, as their fancies worke strong<g ref="char:EOLhyphen"/>ly, so merry fancies and discourses many times make diversions in them, even out of strong fits, making them to laugh. Unto this sort of people, this is all the Physicke which God prescribes them by the Prophet <hi>Isaiah</hi> 35. 4. Say unto them of a fearefull heart, Bee strong, feare not, Behold your
+<pb n="15" facs="tcp:170654:9"/> God will come with vengeance, even God with a recompence, hee will come and save you.</p>
+            <p>And in another place of the same Prophet, <hi>Isa.</hi> 51. 13. God seemes to mocke them for their false feares; And hast feared continu<g ref="char:EOLhyphen"/>ally every day, because of the fury of the oppressor, as if he were ready to destroy: and where is the fury of the oppressor?</p>
+            <p>This sort of people are many times in their dumpes and lamentations, and must be kindly used, <hi>their complaints must be heard, or else they are undone;</hi> after which, there is hope to bring them out of their fits, who are usu<g ref="char:EOLhyphen"/>ally melancholy, the devill using or rather abusing that dangerous humour to delude them.</p>
+            <p>Of whom I knew one to walke a moneth together in one walke neere his house, ex<g ref="char:EOLhyphen"/>pecting that the devill should have fetched him away from thence. But, when (at length) no devill came for him, he left walk<g ref="char:EOLhyphen"/>ing there, and with company and gentle usage became as well as ever: such are in no danger, though ever in feare, their greatest happinesse (next unto the Sunshine of Gods favour) being to meete with a wise, discreet, patient yoke-fellow, or friend, to humour them, to make diversions, and by degrees
+<pb n="16" facs="tcp:170654:10"/> to weare them out of their fits.</p>
+            <p>Another sort of affliction is a great one, <note place="margin">Povertie.</note> which is both <hi>occasioned by povertie,</hi> and hath its root therein; none knoweth the Ago<g ref="char:EOLhyphen"/>ny of such who have not felt the burden of it themselves, of whom I may say, as God speakes of the strangers of Israel, moving them unto pity, <hi>for thou knowest not a stran<g ref="char:EOLhyphen"/>gers heart, Exod.</hi> 23. 10. no more doth any without experience know the bitternesse of this Crosse. To helpe this sort of affliction, it is easie unto those who have abilitie. In <note place="margin">The cure.</note> this case, if Satan with the same have fastned some fiery darts in them: <hi>First supply their wants for the present, that seeing God in this sea<g ref="char:EOLhyphen"/>sonable helpe, they may begin to thinke that God in mercy hath looked upon them;</hi> otherwise it may fall out with them as with the children of Israel, who could not hearken unto <hi>Moses</hi> glad tidings of their deliverance from the <hi>Egyptian captivitie,</hi> because of anguish of spirit.</p>
+            <p>Other sorts of afflictions there are for<g ref="char:EOLhyphen"/>merly touched, I will not stand upon them all; some by <hi>crosses from friends, kindred, pa<g ref="char:EOLhyphen"/>rents, husbands or wives, losses, slanders, per<g ref="char:EOLhyphen"/>secutions, sicknesses, sores, diseases in the Body,</hi> and the like, whose causes and grounds be<g ref="char:EOLhyphen"/>ing easie to be knowne, so are they as easie
+<pb n="17" facs="tcp:170654:10"/> to be cured by the wise Physitians and hel<g ref="char:EOLhyphen"/>pers in this kind; I passe them over: Onely desiring to incounter with the last two I meane to make m<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion of, and so end.</p>
+            <p>The first of these afflictions is, <hi>A strange</hi>
+               <note place="margin">Hardnesse of heart.</note>
+               <hi>hardnesse of heart accompanied with feare of Hell, and hellish torments for ever, with now and then weeping;</hi> and yet againe, <hi>sometimes outfacing hell and damnation, and making a mocke of all.</hi> Of which sort, I knew one in a jolly laugh<g ref="char:EOLhyphen"/>ter (yet sure with a sad heart) affirme, <hi>that since she was sure that she must needs goe to hell, she now determined to live in jollitie, and take the full swing of all the pleasures of this life, because she had none to expect in that to come; affir<g ref="char:EOLhyphen"/>ming</hi> (as she said) <hi>that all her portion was in this life;</hi> and yet for all this, <hi>not long after, she would fall out into fits of weeping, because shee must needs goe into hell for evermore.</hi>
+            </p>
+            <p>Yet for all this jollitie, this Gentlewoman of famous memory Mistris <hi>Joane Drake,</hi> sometimes wise to <hi>Francis Drake</hi> late Esquire, attempted many times to have made away her selfe, but by Gods especiall mercy was so watched that shee was alwayes either inter<g ref="char:EOLhyphen"/>cepted; or prevented in a strange manner; which strange distemper she remained in, so as shee durst never be trusted night or day without some to watch her, untill in judge<g ref="char:EOLhyphen"/>ment,
+<pb n="18" facs="tcp:170654:11"/> she was by a worthy man of God, Master <hi>John Dod,</hi> her helper during all the time of her affliction, perswaded to live, even upon strong rationall grounds, thus. This Preacher, who dealt with her in this strange <note place="margin">The cure.</note> case and cure, asked her this question, <hi>That if</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>now she should be that night condemned, or adjudged unto some one or other shamefull or painfull death, whether or not she would thinke it a great happi<g ref="char:EOLhyphen"/>nesse to have a respite from execution for twenty or thirty yeares?</hi> Whereat after a pretty demurre, she affirmed that in this case she would really wish, and take such a mercy for a great fa<g ref="char:EOLhyphen"/>vour. Whereupon the Preacher went on, &amp; wrought further upon her judgement: pro<g ref="char:EOLhyphen"/>ving unto her how much more fierce, cruell, &amp; vehement hell fire was; and to live in such intolerable torments for ever amongst the devills and wicked men: And therefore though she must (as shee said) at length goe thither, yet it were best for her now to stay upon earth so long as she could, because her arrivall at hell would be too soone, though an hundred yeares hence. Besides, for her <milestone type="tcpmilestone" unit="unspecified" n="2"/> confidence, that shee could know that shee was a reprobate, and must needs goe to hell, this was strongly denied unto her: Affir<g ref="char:EOLhyphen"/>ming, <hi>that neither the Devill, (her Tutor) nor any other creature could know things to come, save</hi>
+               <pb n="19" facs="tcp:170654:11"/>
+               <hi>God onely,</hi> and that therefore shee built upon false conclusions; which was proved unto her out of <hi>Isa.</hi> 44. 7, 8. Where God to distin<g ref="char:EOLhyphen"/>guish him from Idols proves himselfe to bee the onely true God, by declaring things that are a comming. <hi>And who as I, shall call, and shall declare it, and set it in order for me, since I appointed the ancient people? and the things that are a comming, and shall come? let them declare it unto them, &amp;c.</hi> And further, it was shewed her, this Revelation of her Reprobation, must needs be a lie, since it came onely from the devill the father of lies, <hi>Joh.</hi> 8. 44. For the good spirit of God bringeth no such ti<g ref="char:EOLhyphen"/>dings unto us, but all matters of comfort, and joy, putting us in minde of heavenly things issuing from Christ our Saviour, <hi>Joh.</hi> 14. 26. and things belonging unto our peace.</p>
+            <p>By Gods great mercy the party (being very rationall) was so convinced and amazed <hi>with the strength of these three Arguments,</hi> which wrought so strongly upon her judgement and understanding, that she promised them to be contented to live &amp; to use the meanes prescri<g ref="char:EOLhyphen"/>bed, &amp; to waite upon the issues of Gods mer<g ref="char:EOLhyphen"/>cies, &amp; to make no more attempts against her selfe, w<seg rend="sup">ch</seg> she faithfully performed; then being contented to be prayed for, which formerly
+<pb n="20" facs="tcp:170654:12"/> she refused, as a forlorne creature.</p>
+            <p>Now herein was the devils malice seene in fastning this fiery dart so fast in her, as to make her lazie, and to looke for grace out of the Clouds, to take no paines for it, un<g ref="char:EOLhyphen"/>lesse it might have fallen in her mouth, or God to worke some such strange worke up<g ref="char:EOLhyphen"/>on her as might soften her heart so as to make her pliable to looke for Grace. Ten yeares she was in very great trouble and hard<g ref="char:EOLhyphen"/>nesse of heart, much fearing hell and damna<g ref="char:EOLhyphen"/>tion, and greatly wishing for a large mea<g ref="char:EOLhyphen"/>sure of feeling, which she had at length in an unmeasurable manner, beyond the capa<g ref="char:EOLhyphen"/>citie of a creature to containe; whereupon she departed this life in a triumph. But be<g ref="char:EOLhyphen"/>cause some of her last speeches in her sicknesse were worthy to bee written in Letters of gold, and may convince and comfort some other such hard hearted creatures, I will briefly relate a few of them.</p>
+            <p>On a <hi>Tuesday morning</hi> some five dayes be<g ref="char:EOLhyphen"/>fore her death, as she lay a bed about eight a clocke in the morning, and had prayed God, <hi>that once at length he would open the bra<g ref="char:EOLhyphen"/>zen gates of her hard heart, that the King of glo<g ref="char:EOLhyphen"/>ry might enter in,</hi> (as she after confessed) she was suddenly surprised with such an <hi>unmea<g ref="char:EOLhyphen"/>surable measure of feeling</hi> that she was like one
+<pb n="21" facs="tcp:170654:12"/> ravished out of this life, spoke so as all the house, father, mother, husband and all were amazed, carried her selfe, as though she would presently have flowen out of the house top into heaven, calling for her white robes, indeavoring to take leave of every body; speaking to every one to be thank<g ref="char:EOLhyphen"/>full for her, and uttering more in a quarter of an houre, then any Preacher useth to doe in an houre.</p>
+            <p>After this strange fit was over (the like never heard of before) she lay quiet a while, maintained that now God had heard their prayers, that she was now for a new world. And wished the Minister who had these ma<g ref="char:EOLhyphen"/>ny yeares taken paines with her, to pray for her and be thankfull: after which she talked of nothing but thankfulnesse, not to bee otherwise prayed for any more, as needing nothing.</p>
+            <p>The same Tuesday about three a clocke in the afternoone, she fell againe into just such another strange fit of feeling as the former in the morning, with the like speeches and cariage, which being past, and thanksgi<g ref="char:EOLhyphen"/>vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g being againe given; within a while af<g ref="char:EOLhyphen"/>ter she had rested, she uttered this matchlesse <note place="margin">A memora<g ref="char:EOLhyphen"/>ble exam<g ref="char:EOLhyphen"/>ple.</note> spech. <hi>After me never despaire of any bee they neer so hard hearted, but ply them with the</hi>
+               <pb n="22" facs="tcp:170654:13"/>
+               <hi>meanes and it will be effectuall: for I was like a peece of knotty timber, who had need of such strong wedges and hammering. The fountaine of all my misery these many yeares past, hath beene, that I lookt for that in the Law, which I should have found in the Gospel, and for that in my selfe, which I should have found in my Christ.</hi>
+            </p>
+            <p>After this, the wednesday next, shee sent for her Father, and gave him many good ad<g ref="char:EOLhyphen"/>monitions, and her children, and all the ser<g ref="char:EOLhyphen"/>vants would come to her, so long untill her spirits were in a manner quite spent. After which she called for a white wastcoate, and other such ornaments whereiwth she dressed her selfe: when her Mother comming in, and seeing her so handsomely dressed, te<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ling her she looked like a Bride; so I doe (said shee) for I am a Bride trim'd for the Bridegroome. And then shee charged her Mother, and all the residue in the company, that being dead shee should be so laid in t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e grave, as then she was dressed: which w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s accordingly done, five dayes after, when she departed this life.</p>
+            <p>This woman to her eternall praise, w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the best Hypocrite that ever was known: for she alwayes wore her worst side outmo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, being in althings much better then she ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e shew for, abhorring all hypocrisie, save th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s,
+<pb n="23" facs="tcp:170654:13"/> which she did rather out of a meane con<g ref="char:EOLhyphen"/>ceite of any goodnesse in her, worth the notice, then of purpose; though in all her troubles she abounded secretly both in love and mercy to the miserable, being of a true plaine heart as any that ever lived. Who I pray may remaine as a patterne to all affli<g ref="char:EOLhyphen"/>cted hard-hearted Christians, of Gods ex<g ref="char:EOLhyphen"/>ceeding goodnesse and mercy at length, though he make us pray and waite long ere he come to helpe us.</p>
+            <p>And let us know this, that whensoever wee encounter with any such hard-hearted patients, gentle usage, long suffering, with seasonable instruction towards them must be used, much patience, waiting, sometimes humouring them, and letting them speake what they please; though they should re<g ref="char:EOLhyphen"/>peate one thing over a hundred times in a day, they must be heard, <hi>for he who is most patient towards such, alwayes doth most good,</hi> and gaines most of them at length.</p>
+            <p>
+               <hi>A Wounded Spirit,</hi> is the last affliction to be named, which (I must confesse) is farre beyond my skill to speake of, this being a Cure for the great Physitian God himselfe: because the question is moved by way of in<g ref="char:EOLhyphen"/>terrogation; <hi>A wounded Spirit who can beare?</hi>
+               <note place="margin">Awounded Spirit.</note> which includes a strong negation, that no
+<pb n="24" facs="tcp:170654:14"/> flesh (without a divine assistance) is able to endure it. For, when God afflicts us with all his waves, filling the Soule with troubles, seeming to cast it off: his fierce wrath going over us, cutting us off with his terrors, and over whelming our spirits; his fierce wrath like flaming fire, seeming to devoure us: breaking us like a Tempest, powring us out as milke, and curdling us as cheese: renew<g ref="char:EOLhyphen"/>ing his witnesses against us, and seeming to fight against us in fury and great indignati<g ref="char:EOLhyphen"/>on: hiding his face from us, and presenting Hell before us in its true naked Image: O! who can subsist, or dwell before or with these everlasting burnings? O! what a deale of compassion is due unto such a trou<g ref="char:EOLhyphen"/>bled Soule? no Cordialls, Lenitives, Di<g ref="char:EOLhyphen"/>vine Applications, can be too much, to com<g ref="char:EOLhyphen"/>fort and uphold such: and, <hi>wonderfull care ought to be taken, not to adde affliction unto affli<g ref="char:EOLhyphen"/>ction</hi>
+               <note place="margin">The Cure.</note>
+               <hi>unto them.</hi>
+            </p>
+            <p>In this case, all tender love, affection and paines must be taken with the parties (and if it be possible) never left alone. Yea and all choyce cordiall Scriptures must be found out for to apply unto them, and all little e<g ref="char:EOLhyphen"/>nough.</p>
+            <p>They must be assured that afflictions are <milestone type="tcpmilestone" unit="unspecified" n="2"/> so farre from being a signe of Gods wrath
+<pb n="25" facs="tcp:170654:14"/> towards them, that they were bastards ra<g ref="char:EOLhyphen"/>ther, if not so afflicted, <hi>Heb.</hi> 12. 8.</p>
+            <p>They must be put in minde, that afflicti<g ref="char:EOLhyphen"/>ons <milestone type="tcpmilestone" unit="unspecified" n="3"/> come not by chance, but by Gods ap<g ref="char:EOLhyphen"/>pointment, and that we are borne unto af<g ref="char:EOLhyphen"/>fliction as the sparkes flye upwards, <hi>Job</hi> 5. 6, 7. That there is a necessity in this life to suffer with Christ, and be made in some sort conformable unto his death: that we may also be made conformable unto his Re<g ref="char:EOLhyphen"/>surrection, <hi>Rom.</hi> 6. 5. <hi>with him learning obe<g ref="char:EOLhyphen"/>dience by our sufferings, that suffering with him, we may also raigne with him.</hi>
+            </p>
+            <p>And they must also be informed, that <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <hi>God many times brings us to Heaven by the Gates of Hell:</hi> And that all Gods best Servants have had great afflictions, and the more be<g ref="char:EOLhyphen"/>loved, many times the sorer tryalls.</p>
+            <p>Witnesse <hi>Abrahams</hi> Sacrifice: <hi>Jacobs non-such Troubles: Davids</hi> sore and long afflicti<g ref="char:EOLhyphen"/>ons: <hi>Jobs</hi> terrible tryalls, and the glorious end God made of them all: Saint <hi>Pauls</hi> ma<g ref="char:EOLhyphen"/>ny, long, and grievous afflictions. And what shall we say of Christ himselfe, who though he were the Sonne, yet must learne Obedience by his sufferings, ere he became visibly to be the Author of our everlasting Salvation.</p>
+            <p>They must also be assured <hi>that God ruines</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <pb n="26" facs="tcp:170654:15"/>
+               <hi>none by Afflictions:</hi> and that all this affliction which they now doe groane under, is but to purifie them, and make them white, <hi>Dan.</hi> 12. 10. And (as <hi>Moses</hi> speakes) that he may prove them, trye them, and doe them good at their latter end, <hi>Deut.</hi> 8. 16.</p>
+            <p>They must also be told <hi>of Gods manner of</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/>
+               <hi>working with his Church and People by contra<g ref="char:EOLhyphen"/>ries:</hi> of his bringing light from darkenesse, perfection from weakenesse: of his wonder<g ref="char:EOLhyphen"/>full power suddainely to helpe and releeve them: and that now these afflictions are a signe, that as <hi>God loves them, so that all their</hi> sufferings are in this life, and none reserved for the life to come.</p>
+            <p>That in these extremities it is now the <milestone type="tcpmilestone" unit="unspecified" n="7"/> Lords nercies that they are not consumed of them, <hi>Lament.</hi> 3. 22. which out of his great faithfulnesse are renewed every morn<g ref="char:EOLhyphen"/>ing to support them.</p>
+            <p>The farre more excellent and eternall <milestone type="tcpmilestone" unit="unspecified" n="8"/> weight of glory, to come in liew of these light and short afflictions, which in regard of eternity are but for a moment, 2 <hi>Cor.</hi> 4. 17. must not be forgotten.</p>
+            <p>Thus the Patient being plyed with abun<g ref="char:EOLhyphen"/>dance of love, pity, and compassion, season<g ref="char:EOLhyphen"/>able application of Scriptures, praying with them, and the like, either they recover and
+<pb n="27" facs="tcp:170654:15"/> grow better, or else (which is better) <hi>they get patience and submission unto the will of God, to waite his best time, and lie downe at his feete, to be whatsoever he will have them to be.</hi>
+            </p>
+            <p>But yet, he who comforts, must be wary to <note place="margin">Caution.</note> discerne <hi>of a right wounded spirit,</hi> because <hi>some in Melancholy distempers come neere the same:</hi> as I have knowne a woman in the Church, hide her selfe, weepe bitterly, saying that hell fire was already begun at her stomach, and that sure she was damned, when yet comming a<g ref="char:EOLhyphen"/>mong loving cheerefull company, within a few dayes, this imagined fire of hell vanished quite, and she as well as ever.</p>
+            <p>
+               <hi>A truely wounded spirit roares oft for griefe of heart, mournes continually with grievous sighs and groanes, full of feares and terrors, with startings, glad of any pity, good company, or compassion, much humbled and cannot easily be diverted from its in<g ref="char:EOLhyphen"/>tentions,</hi> (as Melancholy persons onely, may be) <hi>full of complaints, yet with submissions unto God, thinking any matter of comfort too good news to be true;</hi> and therefore, are the more to be pityed, waited upon, served, and loved, with all manner of respect and attendance; as those who imagine, that neither any body loves them, or that they deserve love from any bo<g ref="char:EOLhyphen"/>dy, being the unworthyest of all. To con<g ref="char:EOLhyphen"/>clude Sir, let the summe of all be reduced
+<pb n="28" facs="tcp:170654:16"/> unto this: <hi>That knowne causes of afflictions</hi> (as of diseases) <hi>may have easie cures, but those whose grounds lye deepe in the heart hid, keeping Satans counsell, there is no remedy, but one way or other, they must be brought to discover their minds, in the ground and cause of their affliction, or they cannot be cured;</hi> (as hath beene said) <hi>for sin committed, must be confessed to God, or man, or both: ere a con<g ref="char:EOLhyphen"/>science disquieted thereby can bee pacifyed.</hi> In which case, if the businesse prove but a trifle, the cure is soone done. If a greater businesse, yet the burthen will be the lighter to the pa<g ref="char:EOLhyphen"/>tient, when another helpes to carry it, and informes the party (perhaps ignorant) that they are mistaken in their conceits, and too rigorous in their censures and apprehensi<g ref="char:EOLhyphen"/>ons against themselves.</p>
+            <p>But, <hi>if it be a truely wounded spirit, then the Comforter must put on all the bowels of mercy, love, pity, and tender compassions; arme himselfe with Scripture, patience, and long suffering, be abundant in prayer with them, and for them, supporting, and by all meanes lifting up, and cherishing their spirits, and waiting upon God, untill he come leap<g ref="char:EOLhyphen"/>ing by the Mountaines and skipping by the hils, to raise them up againe, making them alive, and reviving them as hee had formerly, in some sort, slaine and wounded them.</hi>
+            </p>
+            <p>Howsoever, long suffering, with abun<g ref="char:EOLhyphen"/>dance
+<pb n="29" facs="tcp:170654:16"/> of love, tender mercies must be exten<g ref="char:EOLhyphen"/>ded unto the afflicted of all sorts whatsoever. And great care taken to finde out (so neere as we can) the quality, nature, &amp; ground of their distempers, ere we apply remedies unto them.</p>
+            <p>And they must not bee much crossed or slighted, but suffered quietly to bemoane themselves, as much as they will, with what repetitions they please: for, <hi>much is gained by gentle usage and good words, which</hi> Solomon saith, <hi>breakes the bones.</hi>
+            </p>
+            <p>And where <hi>Reprehension</hi> appeares to bee needefull, <hi>It must be done sparingly with a great deale of moderation and discretion, and with<g ref="char:EOLhyphen"/>out any bitternesse of spirit.</hi> And it will be (in this case) fit to shew them their errors, so as they may convince themselves thereof, not suffering any disgrace or contempt to fall upon them.</p>
+            <p>And <hi>when any of them beginne to mend, they</hi>
+               <note place="margin">Their Re<g ref="char:EOLhyphen"/>covery.</note>
+               <hi>must not be over-loaded in this their weakenesse, but their appointed taskes must be suitable to their strength, now a little, and then a little, ever labouring to convince their judgements and un<g ref="char:EOLhyphen"/>derstandings, rather then beate upon them to pra<g ref="char:EOLhyphen"/>ctise too soone:</hi> In which case <hi>Jacobs</hi> pace with the women and young Children, is best, to goe on slowly, and not make them out of love with Religion by hard taskes, before
+<pb n="30" facs="tcp:170654:17"/> they know what the bottome of Religion is. For, <hi>Conviction</hi> being that strong worke of the blessed Spirit, <hi>Joh.</hi> 16. 8. when this is done, there will not be much adoe to drive them unto practise.</p>
+            <p>And then again, though much and long time be spent ere their recovery be perfected, yet we must not be wea<g ref="char:EOLhyphen"/>ry to hold out with them: for, God being full of long-suffering and patience towards us, he expects that wee should likewise be so toward our brethrē; in which case the returnes of their love to us thereafter, doth alwayes far sur passe al our pains with them &amp; waiting on them.</p>
+            <p>The Subject in hand (as I said in the beginning) is very large, and might deserve a great volume to be written thereof, rather then thus to have huddled up things in a short Letter, but if he who intends to com<g ref="char:EOLhyphen"/>fort, can judge <hi>(Exungue Leonem)</hi> of the Lyons pro<g ref="char:EOLhyphen"/>portion by his paw, and be skilfull in the Scriptures with a mercifull heart; there will not neede much adoe in this kinde: for, (as S. <hi>John</hi> saith) 1 <hi>Joh.</hi> 2. 27. They shall not neede that any body should teach them what to say, or doe, in this kinde: Because, <hi>the anointing which is from above, will teach them all things.</hi> Thus good Sir, I have, to pleasure you, performed my promise, &amp; to shew my selfe ready to do what good I could in this kind, ex<g ref="char:EOLhyphen"/>pressed my weak judgement unto you in these things: which I know (in regard of your knowledge, practise and experience) you needed not, but that you loved to have a few gleanings from him, whereof you your selfe have a plentifull harvest▪ like the spiritually Covetous, who never thinke they have enough, untill they come to Heaven to the plenitude of the beatificall vision for ever: whither I beseech God in his owne good time time to bring you and me,</p>
+            <closer>
+               <signed>
+                  <hi>Your faithfull cordiall friend,</hi> John Forbes</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170654:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
